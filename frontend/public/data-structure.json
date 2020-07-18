@@ -1,0 +1,11 @@
+{
+	"users": {
+		"USERID1": {
+            "first_name": "Danny",
+			"last_name": "Danny",            
+            "email": "danny@test.com",
+            "user_type": "Commodity Buyer",
+			"online": true
+		}
+	}
+}
